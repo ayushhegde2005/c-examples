@@ -1,4 +1,4 @@
-C = gcc
+CC = gcc
 CFLAGS = -Wall -g
 TARGET = main
 SCRS = main.c
