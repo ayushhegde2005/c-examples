@@ -6,7 +6,7 @@ int main()
 
 	int cur, prev0 = 1, prev1 = 0, i;
 	printf("Enter number of elements:\n");
-	scanf("%u", & i);
+	scanf("%u", &i);
 	printf("seq:");
 	while(i--)
 	{
